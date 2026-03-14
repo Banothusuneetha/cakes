@@ -1,0 +1,33 @@
+body{
+    background-image: url(cakes.png);
+    background-repeat: no-repeat;
+    background-size: 920px 450px;
+}
+form{
+    border:solid;
+    width: 300px;
+    margin-left: 480px;
+    margin-top: 20px;
+    background-color: green;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+label{
+    color: brown;
+    font-size: 20px;
+    font-weight: bold;
+}
+input{
+    height: 20px;
+    width: 22px;
+    border-radius: 20px;
+}
+button{
+    height: 40px;
+    width: 120px;
+    background-color: plum;
+    border-radius: 20px;
+    color: red;
+}
